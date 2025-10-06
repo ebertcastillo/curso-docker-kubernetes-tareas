@@ -1,0 +1,5 @@
+# Archivos que no se subirán al repositorio
+*/__pycache__/
+*.log
+*.tmp
+*.env
