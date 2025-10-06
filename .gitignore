@@ -1,5 +1,8 @@
-# Archivos que no se subirán al repositorio
-*/__pycache__/
+# Archivos del sistema
+.DS_Store
+Thumbs.db
 *.log
+.env
+.env.local
 *.tmp
-*.env
+*.swp
