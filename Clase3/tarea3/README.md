@@ -8,13 +8,13 @@ Demuestra redes, volúmenes y persistencia de datos.
 
 ## CREACION DE HTML COMPOSE. YML 
 
-![Imagen de contenedor descargada](screenshots/t3.1.png)
+![Imagen de contenedor descargada](screenshots/T3.1.png)
 
-![Imagen de contenedor descargada](screenshots/t3.2.png)
+![Imagen de contenedor descargada](screenshots/T3.2.png)
 
 ## verificacion de compose
 
-![Imagen de contenedor descargada](screenshots/t3.3.png)
+![Imagen de contenedor descargada](screenshots/T3.3.png)
 
 ## Servicios corriendo:
 
