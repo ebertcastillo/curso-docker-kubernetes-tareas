@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Blog con Microservicios</title>
+</head>
+<body>
+  <h1>📰 Blog con Redis + Mongo + Nginx Gateway</h1>
+  <button onclick="getPosts()">Cargar Posts</button>
+  <ul id="posts"></ul>
+
+  <script>
+    async function getPosts() {
+      const res = await fetch('/api/posts');
+      const data = await res.json();
+      document.getElementById('posts').innerHTML =
+        data.data.map(p => `<li>${p.title}</li>`).join('');
+      alert("Fuente: " + data.source);
+    }
+  </script>
+</body>
+</html>
