@@ -1,0 +1,12 @@
+{
+  "name": "mi-app-optimizada",
+  "version": "1.0.0",
+  "description": "Aplicación demo optimizada con Node.js y Docker",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
