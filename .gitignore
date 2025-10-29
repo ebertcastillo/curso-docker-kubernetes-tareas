@@ -6,3 +6,5 @@ Thumbs.db
 .env.local
 *.tmp
 *.swp
+!screenshots/
+!screenshots/*.png
