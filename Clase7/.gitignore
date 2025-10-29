@@ -8,3 +8,7 @@ Thumbs.db
 *.swp
 !screenshots/
 !screenshots/*.png
+.git
+.gitignore
+docs
+*.md
