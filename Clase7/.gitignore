@@ -1,2 +1,10 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
+*.tmp
+*.swp
 !screenshots/
 !screenshots/*.png
