@@ -897,6 +897,12 @@ kubectl describe pod -l app=api -n proyecto-integrador | grep Image:
 ¡Éxito en el proyecto final!
 
 
+dokers hub frontend
 
+https://hub.docker.com/repository/docker/ebertccc/angular-frontend/general
+
+docker backend
+
+https://hub.docker.com/repository/docker/ebertccc/springboot-api/general
 
 ![Imagen de contenedor descargada](screenshots/dockerRm.png)
